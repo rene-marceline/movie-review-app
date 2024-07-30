@@ -24,6 +24,6 @@ The Movie Review App is a simple and efficient Spring Boot application that allo
 - **MongoDB**
 
 ### API Endpoints
-GET /api/v1/movies: Retrieve all movies.
-GET /api/v1/movies/{imdbId}: Retrieve a movie by IMDb ID.
-POST /api/v1/reviews: Post review for a movie.
+- **GET /api/v1/movies: Retrieve all movies.**
+- **GET /api/v1/movies/{imdbId}: Retrieve a movie by IMDb ID.**
+- **POST /api/v1/reviews: Post review for a movie.**
